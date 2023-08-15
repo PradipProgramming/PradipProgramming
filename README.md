@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi 👋, I'm Pradip Malik.
 ------------------
---A passionate frontend and backend developer and from India.
+--A passionate frontend and backend developement.
 
 -----------------------
 I’m currently learning ---- React.js,java Spring,fluter,node.js,mariadb,AWS etc.
