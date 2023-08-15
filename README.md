@@ -30,7 +30,7 @@ https://www.codechef.com/users/pradipmalik
 -----------------------
 https://www.hackerearth.com/@pradipmalik2222
 ---------------------
-![online](https://github.com/PradipProgramming/PradipProgramming/assets/93438482/6c01c1c1-983a-48e1-8427-3dc443826887)
+
 <!--
 **PradipProgramming/PradipProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
